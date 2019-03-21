@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Main Page</title>
+</head>
+
+<body text="000000"> 
+
+<div id="introduction">
+<h1><center><strong> Athletes Of America</strong></center></h1>
+<body bgcolor=#808080 text=#000000 backfround="images/wood backround.jpg">
+
+<img
+src="https://imagesvc.timeincapp.com/v3/fan/image?url=https://keepingitheel.com/wp-content/uploads/getty-images/2018/12/1074568096.jpeg&c=sc&w=850&h=560" 
+width="350" height="300
+
+
+
+     
+    </ul>
+    <ul class="pull-right">
+    <center>  <li><a href="player rankings.html">Player Rankings </a></li> </center>
+	  <ul></ul>
+       <center> <li><a href="team rankings.html">Team Rankings</a></li></center>
+	<ul></ul>
+        <center><li><a href="tornements.html">Tornments</a></li></center>
+    </ul>
+  </div>
+</div>
+
+ 
